@@ -1,0 +1,15 @@
+[submodule "CS250_HW_5"]
+	path = CS250_HW_5
+	url = git@github.com:JinchengHeRyan/CS250_HW_5.git
+[submodule "CS250_HW_4"]
+	path = CS250_HW_4
+	url = git@github.com:JinchengHeRyan/CS250_HW_4.git
+[submodule "CS250_HW_3"]
+	path = CS250_HW_3
+	url = git@github.com:JinchengHeRyan/CS250_HW_3.git
+[submodule "CS250_HW_2"]
+	path = CS250_HW_2
+	url = git@github.com:JinchengHeRyan/CS250_HW_2.git
+[submodule "CS250_HW_1"]
+	path = CS250_HW_1
+	url = git@github.com:JinchengHeRyan/CS250_HW_1.git
